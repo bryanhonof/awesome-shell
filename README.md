@@ -210,6 +210,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [cloc](https://github.com/AlDanial/cloc) - Count Lines of Code
 * [doclt](https://github.com/omgimanerd/doclt) - A command line interface to Digital Ocean
 * [dokku](https://github.com/dokku/dokku) - Docker powered mini-Heroku. The smallest PaaS implementation you've ever seen.
+* [flox](https://github.com/flox/flox) - Flox is a virtual environment and package manager all in one.
 * [forgit](https://github.com/wfxr/forgit) - Utility tool for `git` taking advantage of fuzzy finder fzf.
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Many Git extra utilities. Churn, cut-branch, improved-merge and many more.
 * [git-extras](https://github.com/tj/git-extras) - Git utilities -- repo summary, repl, changelog population, author commit percentages and more
